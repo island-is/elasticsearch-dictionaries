@@ -1,5 +1,5 @@
 einn, 1 => einn, 1
-tveir, 2 => tveri, 2
+tveir, 2 => tveir, 2
 þrír, 3 => þrír, 3
 fjórir, 4 => fjórir, 4
 fimm, 5 => fimm, 5
